@@ -31,3 +31,4 @@ lab46 執行狀態
 lab47 callable
 lab48 Runnable 非同步回呼 Callback 我等待中 下面還可以繼續寫其他程式
 lab49 synchronized ATM 提款機
+lab50 wait(), notify(), notifyAll()
