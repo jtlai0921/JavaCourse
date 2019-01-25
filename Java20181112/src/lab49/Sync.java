@@ -15,6 +15,7 @@ public class Sync implements Runnable{
             
         }
         System.out.println("I'm synchronized click");
+        
     }
     
     public void run() {
