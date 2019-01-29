@@ -3,7 +3,6 @@ package lab52;
 import java.util.Random;
 import java.util.concurrent.Executor;
 
-
 class Lotto implements Runnable {
     @Override
     public void run() {
