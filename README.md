@@ -1,10 +1,10 @@
 # JavaCourse
 Java上課範例
-
-<a href="https://github.com/vincenttuan/JavaCourse/tree/master/Java20181112/src/lab17">lab17 繼承<p>
-lab18 繼承 建構子<p>
-lab19 this super<p>
-lab20 this. super.<p>
+<pre>
+<a href="https://github.com/vincenttuan/JavaCourse/tree/master/Java20181112/src/lab17">lab17 繼承</a>
+lab18 繼承 建構子
+lab19 this super
+lab20 this. super.
 lab21 @Override
 lab22 Overloading
 lab23 varag
@@ -35,3 +35,4 @@ lab47 callable
 lab48 Runnable 非同步回呼 Callback 我等待中 下面還可以繼續寫其他程式
 lab49 synchronized ATM 提款機
 lab50 wait(), notify(), notifyAll()
+</pre>
