@@ -1,10 +1,7 @@
 # JavaCourse
 Java上課範例
 
-lab17 繼承:https://github.com/vincenttuan/JavaCourse/tree/master/Java20181112/src/lab17<p>
-
-1 : http://google.com/ "Google"<p>
-
+<a href="https://github.com/vincenttuan/JavaCourse/tree/master/Java20181112/src/lab17">lab17 繼承<p>
 lab18 繼承 建構子<p>
 lab19 this super<p>
 lab20 this. super.<p>
