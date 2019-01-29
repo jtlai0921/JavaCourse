@@ -1,10 +1,10 @@
 # JavaCourse
 Java上課範例
 
-lab17 繼承
-lab18 繼承 建構子
-lab19 this super
-lab20 this. super.
+lab17 繼承<p>
+lab18 繼承 建構子<p>
+lab19 this super<p>
+lab20 this. super.<p>
 lab21 @Override
 lab22 Overloading
 lab23 varag
