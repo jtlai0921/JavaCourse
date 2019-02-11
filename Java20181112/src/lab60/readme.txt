@@ -1,6 +1,6 @@
 Consumer
     void accept(T t);
-Function
+Function -> y=f(x)
     R apply(T t);
     R apply(T t, U u); (BiFunction)
 Predicate

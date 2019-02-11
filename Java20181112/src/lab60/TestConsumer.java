@@ -21,7 +21,13 @@ public class TestConsumer {
         Consumer consumer3 = t -> System.out.println("我印出了 " + t);
         consumer3.accept("Hello Consumer3");
         
-        
+        print("Hello Consumer4", t -> System.out.println("我想印 " + t));
+        print("Hello Consumer5", t -> System.out.println("我想印這個 " + t));
         
     }
+    
+    public static void print(String data, Consumer consumer) {
+        consumer.accept(data);
+    }
+    
 }
