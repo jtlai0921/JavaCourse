@@ -7,6 +7,7 @@ import java.util.stream.Stream;
 
 public class Fib_Java8 {
     public static List<Long> fib(int num) {
+        num += 1;
         return Stream.iterate(new long[]{0, 1}, s -> new long[]{s[1], s[0] + s[1]})
                 .parallel()
                 .limit(num)
@@ -14,6 +15,6 @@ public class Fib_Java8 {
                 .collect(toList());
     }
     public static void main(String[] args) {
-        System.out.println(fib(50));
+        System.out.println(fib(50).get(50));
     }
 }
